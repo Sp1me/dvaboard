@@ -1,0 +1,14 @@
+.history/
+keyboard-backups/
+*-backups/
+production/
+*.zip
+*.bak
+*.kicad_prl
+*.kicad_sch-bak
+*.kicad_pcb-bak
+
+*.dxf
+*.step
+place_footprints.log
+untitled.kicad_sch

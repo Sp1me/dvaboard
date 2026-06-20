@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "switches-with-keycaps") (type "KiCad") (uri "${KIPRJMOD}/switches-with-keycaps.pretty") (options "") (descr ""))
+)
