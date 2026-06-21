@@ -7,6 +7,9 @@ I honestly don't really know, it was the first thing that came to mind since I p
 
 ![Fallout zine](images/zine.png)
 
+# Building guide
+I actually haven't built this yet, but the idea is to 3D print the case, get the PCB delivered by JLC PCB, and then attatch everything together with M2 screws. The PCB would be attatched through the keyboard plate and all the electronic components would need to be soldered onto the PCB (Except the switches which should just pop on). I also haven't flashed the firmware yet because I haven't built it, so I will update when I get that done. 
+
 # PCB front
 ![PCB front](images/pcb-front.png)
 
