@@ -29,6 +29,6 @@ I honestly don't really know, it was the first thing that came to mind since I p
 ![leds](images/led-schematic.png)
 
 # Keyboard matrix schematic
-![matrix](matrix-schematic.png)
+![matrix](images/matrix-schematic.png)
 
 
