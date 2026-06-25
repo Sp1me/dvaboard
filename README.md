@@ -34,4 +34,22 @@ I actually haven't built this yet, but the idea is to 3D print the case, get the
 # Keyboard matrix schematic
 ![matrix](images/matrix-schematic.png)
 
+# Bill of Materials
+
+| Component | Quantity | Price (total) | Manufacturer | Purchase link |
+|---|---:|---:|---|---|
+| I2C OLED Display Module | 1 | $0.99 | — | [AliExpress](https://www.aliexpress.us/item/3256806179530924.html) |
+| SK6812 Mini-e | 61 | $18.00 | — | [Keebio](https://keeb.io/products/sk-6812-mini-e-rgb-leds-12-pack) |
+| Raspberry Pi Pico | 1 | $4.00 | — | [Mouser](https://www.mouser.com/ProductDetail/Raspberry-Pi/SC0915) |
+| EC11 Rotary Encoder | 1 | $2.00 | — | [Keebio](https://keeb.io/products/rotary-encoder-ec11) |
+| MX Switches | 61 | $40.00 | — | [Amazon](https://www.amazon.com/CHERRY-Silent-Mechanical-Keyboard-Switches/dp/B0FYRGWPGL/ref=sr_1_4) |
+| EC11 Rotary Encoder Knob | 1 | $1.95 | — | [AliExpress](https://www.aliexpress.us/item/3256803638369929.html) |
+| DO-35 Diode | 61 | $3.36 | — | [Digi-Key](https://www.digikey.com/en/products/detail/onsemi/1N4148TR/458811) |
+| Rubber feet | 4 | $2.00 | — | [ScottoKeebs](https://scottokeebs.com/products/rubber-feet) |
+| Keyboard PCBs | 5 | $40.91 | JLCPCB | — |
+| Keycaps (60%) | 1 | $29.99 | — | [Pwnage](https://pwnage.com/products/cherry-profile-dual-shot-pbt-keycaps) |
+| M2 Screws | 8 | $9.00 | — | [Amazon](https://www.amazon.com/VGBUY-Assortment-Stainless-Machine-Suitable/dp/B0FJ1XLMJT/ref=sr_1_16) |
+| **Total** |  | **$152.20** |  |  |
+
+The original spreadsheet is also available as [`BOM.csv`](BOM.csv).
 
